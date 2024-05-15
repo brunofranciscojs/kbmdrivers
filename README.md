@@ -1,8 +1,6 @@
-# React + Vite
+# Projeto React para listar todos os drivers e manuais da marca kbm gaming...
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Desenvolvido com react.js e tailwindcss, fazendo um fetch assíncrono de um google sheets contendo todas as informações de cada driver, por exemplo, versão, link manual, foto do produto, titulo e etcetera.
 
-Currently, two official plugins are available:
+### Projeto não foi publicado, mas pode ser visto em, https://github.io/kbmdrivers
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
